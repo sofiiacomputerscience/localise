@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <script type="text/javascript">window.liveSettings={api_key:"b88b2825a52346a5997c9218cd98eece"}</script>
+<script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+    <meta charset="UTF-8">
+    <title>Моя чудова сторінка</title>
+  </head>
+  <body>
+    <header>
+      <h1>Ласкаво просимо на мою чудову сторінку</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Головна</a></li>
+          <li><a href="#">Про мене</a></li>
+          <li><a href="#">Контакти</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Про мене</h2>
+      <p>Привіт, я Іван, і мене захоплює веб-розробка. Я люблю створювати красиві і функціональні веб-сайти, які легко використовувати і покращують користувацький досвід.</p>
+      <h2>Мої навички</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </main>
+    <footer>
+      <p>&copy; 2023 Моя чудова сторінка</p>
+    </footer>
+  </body>
+</html>
